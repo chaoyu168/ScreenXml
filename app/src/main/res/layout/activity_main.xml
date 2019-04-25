@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnClick"
+        android:layout_width="@dimen/width210px"
+        android:layout_height="@dimen/height100px"
+        android:layout_centerInParent="true"
+        android:text="点击生成xml" />
+
+</RelativeLayout>
