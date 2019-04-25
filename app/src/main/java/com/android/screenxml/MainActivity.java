@@ -10,8 +10,7 @@ import android.view.View;
 import android.widget.Toast;
 
 /**
- * 创建人： 汪勇奇
- * 创建时间：2018/10/22.
+ *
  * 文件说明：屏幕适配主界面
  * 制作xml的核心代码：
  * com.wyq.markXml.MarkXmlUtil.markXmlFile(如果需要制作默认的dp值，就需要传上下文, 这里填写UI效果图的屏幕宽度,
